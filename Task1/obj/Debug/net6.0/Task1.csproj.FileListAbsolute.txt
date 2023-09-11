@@ -1,0 +1,5 @@
+C:\Users\apusi\OneDrive\Desktop\uni\Repo1\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+C:\Users\apusi\OneDrive\Desktop\uni\Repo1\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apusi\OneDrive\Desktop\uni\Repo1\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+C:\Users\apusi\OneDrive\Desktop\uni\Repo1\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+C:\Users\apusi\OneDrive\Desktop\uni\Repo1\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
